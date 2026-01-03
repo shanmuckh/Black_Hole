@@ -3,7 +3,12 @@
 # 🌌 **Relativistic Black Hole Raytracer** 🌌
 ### **Real-time Geodesic Raytracing of Sagittarius A* using Schwarzschild Metric & GPU Compute Shaders**
 
-https://github.com/shanmuckh/Black_Hole/blob/main/Black_Hole_Output.mp4
+
+
+https://github.com/user-attachments/assets/371f3d6a-80b3-4fd2-8caa-ee46efdf2963
+
+
+
 **Physically-accurate simulation of gravitational lensing, photon spheres, and ergosphere dynamics around a Kerr-like black hole.**
 *OpenGL 4.3 • GLSL Compute • RK4 Geodesic Integration • 100k+ rays/frame*
 
