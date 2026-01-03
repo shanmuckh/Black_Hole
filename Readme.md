@@ -1,11 +1,8 @@
 <div align="center">
 
 # ﴾⦵﴿ **Black Hole** ﴾⦵﴿
-### Black Hole o/p
 
 https://github.com/user-attachments/assets/371f3d6a-80b3-4fd2-8caa-ee46efdf2963
-
-
 
 **Physically-accurate simulation of gravitational lensing, photon spheres, and ergosphere dynamics around a Kerr-like black hole.**
 *OpenGL 4.3 • GLSL Compute • RK4 Geodesic Integration*
@@ -19,9 +16,8 @@ https://github.com/user-attachments/assets/371f3d6a-80b3-4fd2-8caa-ee46efdf2963
 - **Accretion Disk**: Volumetric `r⁻²` density profile with relativistic beaming
 - **Interactive**: Orbital camera, zoom/pan, real-time parameter tuning
 
-
 ## **Now the Fun Part Begins 😎**
-## **Schwarzschild Physics**
+ **Schwarzschild Physics**
 - Metric: ds² = -(1-rs/r)dt² + (1-rs/r)⁻¹dr² + r²(dθ² + sin²θ dφ²)
 - Null Geodesic: g_μν dx^μ/dλ dx^ν/dλ = 0
 
@@ -34,10 +30,10 @@ https://github.com/user-attachments/assets/371f3d6a-80b3-4fd2-8caa-ee46efdf2963
 - Photon Sphere: r = 1.5 r_s (unstable)
 
 ## **Hey there! 👋**
-This is my R&D work—crafted with love for physics + graphics programming!
+This is my Research and Development work - crafted with love for physics + graphics programming!
 
-⭐ Star if you found this cool
-👀 Follow for more simulations
-🐛 Issues/PRs welcome—let's make it better together!
+- ⭐ Star if you found this cool
+- 👀 Follow for more simulations
+- 🐛 Issues/PRs welcome—let's make it better together!
 
-© 2026 [Surakarapu Shanmukh Srinivas]. All rights reserved. MIT License.
+© <script>document.write(new Date().getFullYear())</script> [<a href="https://github.com/shanmuckh">Surakarapu Shanmukh Srinivas</a>]. All rights reserved. MIT License.
