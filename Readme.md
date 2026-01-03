@@ -36,4 +36,5 @@ This is my Research and Development work - crafted with love for physics + graph
 - 👀 Follow for more simulations
 - 🐛 Issues/PRs welcome—let's make it better together!
 
-© <script>document.write(new Date().getFullYear())</script> [<a href="https://github.com/shanmuckh">Surakarapu Shanmukh Srinivas</a>]. All rights reserved. MIT License.
+© 2026 – present [Surakarapu Shanmukh Srinivas](https://github.com/shanmuckh). All rights reserved. MIT License.
+
