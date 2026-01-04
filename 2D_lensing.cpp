@@ -204,6 +204,8 @@ struct Ray {
     }
 };
 
+// also this is an improved work of the original work done by the https://github.com/kavan010
+// i learned a lot from the work of the kavan010 and improved upon it for my r&d project.
 static void geodesicRHS(const Ray& ray, double rhs[4], double rs) {
     const double r = ray.r;
     const double dr = ray.dr;
