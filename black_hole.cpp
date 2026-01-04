@@ -20,6 +20,10 @@ using namespace glm;
 using namespace std;
 using Clock = std::chrono::high_resolution_clock;
 
+// In black_hole.cpp
+const char* WATERMARK = "©2026 shanmuckh.com";
+glShaderSource(shader, 1, &WATERMARK, NULL);  // Invisible in GLSL
+
 // VARS
 double lastPrintTime = 0.0;
 int    framesCount   = 0;
